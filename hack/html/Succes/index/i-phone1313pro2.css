@@ -1,0 +1,179 @@
+.i-phone1313pro2-container {
+  min-height: 100vh;
+}
+.i-phone1313pro2-i-phone1313pro2 {
+  width: 100%;
+  height: 844px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.i-phone1313pro2-div {
+  top: 35px;
+  left: 20px;
+  width: 350px;
+  display: flex;
+  padding: 93.5px 0 93.515625px 0;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+}
+.i-phone1313pro2-div1 {
+  width: 350px;
+  height: 399.984375px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(219, 219, 219, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 1px;
+  margin-bottom: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.i-phone1313pro2-instagram {
+  top: 52.5px;
+  left: 87px;
+  width: 175px;
+  height: 51px;
+  position: absolute;
+  border-color: transparent;
+}
+.i-phone1313pro2-checkmark1 {
+  top: 112.5px;
+  left: 139px;
+  width: 71px;
+  height: 71px;
+  position: absolute;
+  border-color: transparent;
+}
+.i-phone1313pro2-text {
+  top: 212.5px;
+  left: 23px;
+  color: rgba(0, 0, 0, 1);
+  width: 305px;
+  height: auto;
+  position: absolute;
+  font-size: 1em;
+  line-height: 1.15;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Montserrat, Roboto, sans-serif !important;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.i-phone1313pro2-rectangle1 {
+  top: 199.5px;
+  left: 0px;
+  width: 350px;
+  height: 91px;
+  position: absolute;
+  border-color: transparent;
+}
+.i-phone1313pro2-button {
+  top: 312.5px;
+  left: 41px;
+  width: 273px;
+  display: flex;
+  height: 40px;
+  padding: 6px 114px 6px 115px;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 9px;
+  background-color: #833AB4;
+}
+.i-phone1313pro2-text2 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 1em;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Montserrat, Roboto, sans-serif !important;
+  font-weight: 400;
+  line-height: 26px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+  
+}
+.i-phone1313pro2-div2 {
+  display: flex;
+  padding: 10px 0;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 10px;
+  flex-direction: column;
+  justify-content: center;
+}
+.i-phone1313pro2-text4 {
+  color: rgba(38, 38, 38, 1);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 14px;
+  text-decoration: none;
+}
+.i-phone1313pro2-div3 {
+  width: 350px;
+  height: 44px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.i-phone1313pro2-c5rp7ym-klzpng {
+  top: 0px;
+  left: 48.46875px;
+  width: 134px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+}
+.i-phone1313pro2-e-h-y6qn-z-yd-n-xpng {
+  top: 0px;
+  left: 190.75px;
+  width: 111px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+}
+.i-phone1313pro2-text6 {
+  color: rgba(142, 142, 142, 1);
+  width: 348px;
+  height: auto;
+  font-size: 11px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
